@@ -48,10 +48,4 @@ public class Qualification {
 		
 	}
 	
-	public static void main(String[] args) {
-		Qualification x = new Qualification("java");
-		if (!(x.process()==""))
-			System.out.println("he");
-		
-	}
 }
