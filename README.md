@@ -1,6 +1,6 @@
 # Cover-Letter-Auto-Generator
 
-Due to the large amount to applications of jobs and interns, I decided to write a Cover Letter Auto-Generator. Apache POI is must be imported.
+Due to the large amount to applications of jobs and interns, I decided to write a Cover Letter Auto-Generator. Apache POI must be imported.
 
 It can carry out two functions:
 1. Detect key words in the qualification section of the job description
