@@ -19,7 +19,7 @@ You may wrote "Very familiar with Java in both Object-Orientated Programmings" a
 Example Output:
 
 * familiar with Java
-You may wrote "Very familiar with Java in both Object-Orientated Programmings" and advanced functions.
+<br>Very familiar with Java in both "Object-Orientated Programmings" and advanced functions.
 
 Apache POI:
 Tutorial:
